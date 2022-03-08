@@ -14,9 +14,9 @@ Ao fim deste curso espera-se ter aprendido:
 
 ## Escopo <p id="escopo">
  
- ### A aplicação
- 
 [1. Introduçao ao Java](../../wiki/1.-Introduçao-ao-Java)
+ 
+### A aplicação
 
 ## Como funciona este repositório
 
