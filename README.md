@@ -22,7 +22,7 @@ Ao fim deste curso espera-se ter aprendido:
 
 ### Código
 
-Aqui na branch "_main_" ficarão todos os códigos já implementados e como ficaram a partir da última aula publicada.
+Aqui na branch "_main_" ficarão todos os códigos já implementados e como ficaram a partir do último capítulo publicado.
 Para cada uma das seções descritas no escopo haverá uma branch com o número e nome da seção em questão, para ver como o código estava ao fim basta realizar um `git checkout` na respectiva branch.
 
 ### Material escrito
