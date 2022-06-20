@@ -27,7 +27,7 @@ Para cada uma das seções descritas no escopo haverá uma branch com o número 
 
 ### Material escrito
   
-Exceto por este README.md todo o material com conteúdo teórico, tutoriais e explicações estará organizado na página de [**Wiki**](../../wiki) deste repositório e também poderá ser acessado através dos links descritos no <a href="#escopo">escopo</a> conforme forem publicados.
+Exceto por este README.md todo o material com conteúdo teórico, como tutoriais e explicações, estará organizado na página de [**Wiki**](../../wiki) deste repositório e também poderá ser acessado através dos links descritos no <a href="#escopo">escopo</a> conforme forem publicados.
 
 ## Ambiente de desenvolvimento
 
@@ -37,4 +37,4 @@ As ferramentas que compõem o ambiente necessário para acompanhamento dos desen
 * IntelliJ IDEA Community Edition
 * Git
  
-_**Disclaimer:** Este curso foi desenvolvido por mim como uma ferramenta de estudos pessoais e também para ajudar a quem interesse, o conteúdo é baseado em várias fontes que fui colecionando ao longo do tempo e conhecimentos adquiridos no dia a dia trabalhando com a linguagem, sempre deixarei as referências principais que utilizo para dar o devido crédito, mas este conteúdo é passivo de erros e estou sempre aberta a sugestões e correções._
+_**Disclaimer:** Este curso foi desenvolvido por mim como uma ferramenta de estudos pessoais e também para ajudar a quem interesse, o conteúdo é baseado em várias fontes que fui colecionando ao longo do tempo e conhecimentos adquiridos no dia a dia estudando e trabalhando com a linguagem, sempre deixarei as referências principais que utilizo para dar o devido crédito. Este conteúdo é passivo de erros e estou sempre aberta a sugestões e correções._
